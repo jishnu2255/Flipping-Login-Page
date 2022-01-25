@@ -4,7 +4,7 @@ function check()
 {
     var username=document.getElementById("username").value;
     var password=document.getElementById("password").value;
-    if (username=="jishnu"&& password =="2255")
+    if (username=="ameeen"&& password =="chunaani")
     {
         window.location ="http://projava.rf.gd"
         alert("Login Successfull");
